@@ -11,7 +11,7 @@ export default function Layout(props) {
       </div>
       <button>
         <p>Sign up free</p>
-        <i class="fa-solid fa-mug-hot"></i>
+        <i className="fa-solid fa-mug-hot"></i>
       </button>
     </header>
   );
